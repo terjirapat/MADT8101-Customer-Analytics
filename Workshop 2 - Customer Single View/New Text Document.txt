@@ -1,5 +1,0 @@
-- create customer single view
-- apply kmean k from siluette
-- product recommend for each segment
-- basket size ex... and recommend base on result
-- scaler onehot
