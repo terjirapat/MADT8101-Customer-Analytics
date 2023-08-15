@@ -1,6 +1,6 @@
 # Designing Customer Data Platform
 :round_pushpin: **GOAL :** 
-- Designing a Data Platform Architecture for a company based on interest
+> Designing a Data Platform Architecture for a company based on interest
 
 #
 
