@@ -18,6 +18,8 @@ number of topic = 3
 
 As most of the reviews are positive about the food and deliciousness. and a small number of reviews Therefore, no differences between the groups could be found. 
 
+The same keyword in the three groups is 'อาหาร', 'อร่อย'
+
 Obtained an understanding that customers have a positive opinion of the food.
 
 ##  Document clustering
@@ -29,3 +31,13 @@ Obtained an understanding that customers have a positive opinion of the food.
 ### Cosine Similarity
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/78935580-b781-451b-80ce-73e102986640)
+
+In this case, Cosine Similarity can clearly define the difference between group
+
+It is possible to assign names to the clusters using the Cosine Similarity as follows
+
+Cluster 0: Liked Food
+
+Cluster 1: Good Service and Atmosphere
+
+Cluster 2: Disliked Food
