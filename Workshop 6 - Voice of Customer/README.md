@@ -2,9 +2,8 @@
 
 Goal : Sentiment analysis
 
-Data : ครกไม้ไทยลาว (Krok Mai Thai Lao) restaurant customers review from Wongnai
+Data : [ครกไม้ไทยลาว (Krok Mai Thai Lao)](https://www.wongnai.com/r/12231Lf) restaurant customers review from Wongnai
 
 Method : 
 - Topic Modeling with LDA
 - Document clustering using K-mean and cosine similarity
-
