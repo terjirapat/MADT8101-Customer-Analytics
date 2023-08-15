@@ -32,11 +32,37 @@ Obtained an understanding that customers have a positive opinion of the food.
 
 ### K-mean
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/9025657e-5ef3-44ac-b293-b3a5ae1c9cac)
+```
+Cluster ID : 0
+
+Most common words include : [('อาหาร', 4), ('คน', 4), ('ไม้', 2), ('สาขา', 2), ('สั่ง', 2), ('ดี', 2), ('เมนู', 2), ('โต๊ะ', 2), ('รถ', 1), ('ศูนย์', 1)]
+
+Cluster ID : 1
+
+Most common words include : [('อาหาร', 11), ('รสชาติ', 6), ('อีสาน', 4), ('กิน', 3), ('วัตถุ', 2), ('แซ่บ', 2), ('เมนู', 2), ('อร่อย', 2), ('สัมผัส', 1), ('ดิบ', 1)]
+
+Cluster ID : 2
+
+Most common words include : [('ทาน', 3), ('ส้มตำลาว', 2), ('พน', 2), ('ครก', 2), ('ส้มตำมั่ว', 1), ('ซั่ว', 1), ('ไม้', 1), ('เด็ด', 1), ('ปี', 1), ('ลอง', 1)]
+
+```
+
 
 ### Cosine Similarity
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/78935580-b781-451b-80ce-73e102986640)
+```
+Cluster ID : 0
+
+Most common words include :[('อาหาร', 35), ('อร่อย', 25), ('เมนู', 24), ('ดี', 19), ('ย่าง', 16), ('คน', 15), ('รสชาติ', 15), ('ทาน', 13), ('ไข่', 12), ('สั่ง', 11)]
+
+Cluster ID : 1
+
+Most common words include :[('อาหาร', 3), ('ดี', 2), ('โต๊ะ', 2), ('โปร่ง', 1), ('นั่ง', 1), ('ไม้', 1), ('พนักงาน', 1), ('ตอน', 1), ('คน', 1), ('เมนู', 1)]
+
+Cluster ID : 2
+
+Most common words include :[('แวะ', 1), ('กิน', 1), ('รสชาติ', 1), ('อาหาร', 1), ('เหมือน', 1), ('อัด', 1), ('ผงชูรส', 1), ('เค็ม', 1), ('ไก่', 1), ('ย่าง', 1)]
+```
 
 In this case, Cosine Similarity can clearly define the difference between group
 
@@ -47,3 +73,4 @@ Cluster 0: Liked Food
 Cluster 1: Good Service and Atmosphere
 
 Cluster 2: Disliked Food
+
