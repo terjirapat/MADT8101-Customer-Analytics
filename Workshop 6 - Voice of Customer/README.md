@@ -3,7 +3,7 @@
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/58d58bf0-0685-4003-9af3-0a01beaf9fad)
 
 :round_pushpin: **GOAL :** 
-- Sentiment Analysis of the Voice of the Customers
+>Sentiment Analysis of the Voice of the Customers
 
 **CODE:** 
 - [Code](./main.ipynb)
