@@ -1,18 +1,21 @@
 # Voice of the customer
-:round_pushpin: **GOAL :** 
-> Sentiment Analysis of Voice of the Customers
-
-#
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/58d58bf0-0685-4003-9af3-0a01beaf9fad)
 
-[Code](./main.ipynb)
+:round_pushpin: **GOAL :** 
+- Sentiment Analysis of the Voice of the Customers
 
-Data: [ครกไม้ไทยลาว (Krok Mai Thai Lao)](https://www.wongnai.com/r/12231Lf) restaurant customers review from Wongnai
+**CODE:** 
+- [Code](./main.ipynb)
 
-Method: 
+**DATA:**  
+- [ครกไม้ไทยลาว (Krok Mai Thai Lao)](https://www.wongnai.com/r/12231Lf) restaurant customers review from Wongnai
+
+**METHOD:**  
 - Topic Modeling with LDA
 - Document clustering using K-mean and Cosine Similarity
+
+#
 
 ## Topic Modeling using LDA
 
