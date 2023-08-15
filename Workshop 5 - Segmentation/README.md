@@ -10,3 +10,5 @@
 
 **DATA:**  
 - Product sales and membership data from HDI company
+
+[Click Here For More](./HDI%20Data%20Analytics%20Use%20Case.pdf)
