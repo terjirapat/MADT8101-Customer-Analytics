@@ -1,6 +1,8 @@
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/58d58bf0-0685-4003-9af3-0a01beaf9fad)
 
-Goal: Sentiment analysis
+[Code](./main.ipynb)
+
+Goal: Sentiment Analysis
 
 Data: [ครกไม้ไทยลาว (Krok Mai Thai Lao)](https://www.wongnai.com/r/12231Lf) restaurant customers review from Wongnai
 
