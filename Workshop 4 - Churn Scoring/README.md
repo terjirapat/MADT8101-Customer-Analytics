@@ -18,6 +18,7 @@
 Period: 2006/04 - 2008/06
 
 ## Cohort Analysis
+
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/91e74e55-4328-486b-b3d2-5887dd457fab)
 
 ## Customer Movement Analysis
@@ -25,4 +26,31 @@ Period: 2006/04 - 2008/06
 Customer movement analysis shows customer behavior in terms of new, repeat, reactivated, and churn customers compared to the previous month
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/bcad3657-eb0a-4caa-b789-d080c63bfd1c)
+
+## Churn Prediction
+
+Using propensity to purchase to predict churn customers
+
+Train period: 2008/01 - 2008/03
+
+Test period: 2008/04
+
+**Feature**
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/8a6ef590-d23d-4555-b38d-38807e5f509f)
+
+**Result**
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/52d50c96-731c-4368-8a2d-84e022e83c66)
+
+#
+
+I apply the 80/20 rule by finding customers who spend 80% of total sales but churn to take action with these customers
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/44817cb4-7cc3-4eef-aded-c146efa68758)
+
+This is some of the customers that match the rule and tend to churn in the next month
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/91217796-cb72-43cc-a4a7-edaa41233b4f)
+
 
