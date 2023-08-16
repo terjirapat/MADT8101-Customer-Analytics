@@ -1,7 +1,7 @@
 # Customer Segmentation
 
 :round_pushpin: **GOAL:**
-> Define Customer Segment
+> Define Customer Segment and Get Business Value
 
 **CODE:** 
 - [Main](./main.ipynb)
