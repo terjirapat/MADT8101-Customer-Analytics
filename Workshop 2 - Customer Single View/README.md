@@ -20,19 +20,20 @@ I design this based on RFM Framework. That will help to understand customers abo
 
 **Columns of my Customer Single View**
 
-- Basket size (3 months)
-- Basket size in 1 month
-- Basket size in 2 months
-- Total number of transactions (3 months)
-- Number of transactions in 1 month
-- Number of transactions in 2 months
-- Total spending (3 months)
-- Spending in 1 month
-- Spending in 2 months
-- Number of unique dates
-- Number of unique weeks
+- Average basket size
+- Average basket size in 3 months
+- Average basket size in 6 months
+- Total number of transactions
+- Number of transactions in 3 months
+- Number of transactions in 6 months
+- Total spending
+- Total spending in 3 months
+- Total spending in 6 months
 - Time between purchase
-- Recency
+- Average weekly transaction
+- Average weekly spending
+- Member duration (Day)
+- Last visit
 
 This is my Python code to create Customer Single View
 
