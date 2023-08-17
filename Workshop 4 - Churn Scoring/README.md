@@ -45,7 +45,7 @@ Test period: 2008/04
 
 #
 
-I apply the 80/20 rule by finding customers who spend 80% of total sales but churn to take action with these customers
+I apply the 80/20 rule by finding customers who spend 80% of total sales but tend to churn in order to reduce the churn rate of these customers
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/44817cb4-7cc3-4eef-aded-c146efa68758)
 
