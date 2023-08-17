@@ -37,15 +37,15 @@ Test period: 2008/04
 
 **Feature**
 
-- Basket size (3 months)
-- Basket size in 1 month
-- Basket size in 2 months
+- Average basket size (3 months)
+- Average basket size in 1 month
+- Average basket size in 2 months
 - Total number of transactions (3 months)
 - Number of transactions in 1 month
 - Number of transactions in 2 months
 - Total spending (3 months)
-- Spending in 1 month
-- Spending in 2 months
+- Total spending in 1 month
+- Total spending in 2 months
 - Number of unique dates
 - Number of unique weeks
 - Time between purchase
