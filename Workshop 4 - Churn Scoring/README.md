@@ -37,6 +37,20 @@ Test period: 2008/04
 
 **Feature**
 
+- Basket size (3 months)
+- Basket size in 1 month
+- Basket size in 2 months
+- Total number of transactions (3 months)
+- Number of transactions in 1 month
+- Number of transactions in 2 months
+- Total spending (3 months)
+- Spending in 1 month
+- Spending in 2 months
+- Number of unique dates
+- Number of unique weeks
+- Time between purchase
+- Recency
+
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/8a6ef590-d23d-4555-b38d-38807e5f509f)
 
 **Result**
@@ -45,7 +59,7 @@ Test period: 2008/04
 
 #
 
-I apply the 80/20 rule by finding customers who spend 80% of total sales but churn to take action with these customers
+I apply the 80/20 rule by finding customers who spend 80% of total sales but tend to churn in order to reduce the churn rate of these customers
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/44817cb4-7cc3-4eef-aded-c146efa68758)
 
