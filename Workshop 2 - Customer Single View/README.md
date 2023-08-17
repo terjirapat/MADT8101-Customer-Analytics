@@ -73,7 +73,7 @@ df_scv['mem_dur'] = (df['SHOP_DATE'].max()-df_scv['first_visit']).dt.days
 df_scv['avg_weekly_trans'] = df_scv['total_trans'] / df_scv['unique_week']
 df_scv['avg_weekly_spend'] = df_scv['total_spend'] / df_scv['unique_week']
 
-df_scv.drop(columns=['unique_week'], inplace=True)
+df_scv.drop(columns=['unique_week', 'first_visit'], inplace=True)
 
 df_scv.tail(3)
 ```
