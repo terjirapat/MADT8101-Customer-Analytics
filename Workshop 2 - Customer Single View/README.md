@@ -78,3 +78,6 @@ df_scv.drop(columns=['unique_week', 'first_visit'], inplace=True)
 df_scv.tail(3)
 ```
 
+Customer Single View example
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/3499bebe-a934-42d8-a792-66c7d346c2e2)
