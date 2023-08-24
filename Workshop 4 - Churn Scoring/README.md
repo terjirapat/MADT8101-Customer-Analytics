@@ -25,6 +25,19 @@ Period: 2006/04 - 2008/06
 
 Customer movement analysis shows customer behavior in terms of new, repeat, reactivated, and churn customers compared to the previous month
 
+For each reporting month, customers are grouped into 4 categories defined by the definition below
+
+| Status | Current | Previous | Before |
+| --- | --- | --- | --- |
+| Repeat | ✅ | ✅ | |
+| Reactivated | ✅ | ❌ | ✅ |
+| New | ✅ | ❌ | ❌ |
+| Churn | ❌ | ✅ | |
+
+Current: made purchases this month (M)
+Previous: made purchases last month (M-1)
+Before: made purchase before last month (< M-1)
+
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/bcad3657-eb0a-4caa-b789-d080c63bfd1c)
 
 ## Churn Prediction
@@ -63,7 +76,7 @@ I apply the 80/20 rule by finding customers who spend 80% of total sales but ten
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/44817cb4-7cc3-4eef-aded-c146efa68758)
 
-This is some of the customers that match the rule and tend to churn in the next month
+These are some of the customers that match the rule and tend to churn in the next month
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/91217796-cb72-43cc-a4a7-edaa41233b4f)
 
