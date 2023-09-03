@@ -21,7 +21,7 @@ Period: 2006/04 - 2008/06
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/91e74e55-4328-486b-b3d2-5887dd457fab)
 
-From Cohort Analysis
+Based on the Cohort analysis It was discovered that approximately 10% of new customers will continue to use the service after around 4 months, implying that up to 90% will have churned.
 
 ## Customer Movement Analysis
 
