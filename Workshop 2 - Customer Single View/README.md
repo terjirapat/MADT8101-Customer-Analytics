@@ -42,7 +42,7 @@ I designed this based on the RFM Framework. That will help to understand custome
 - Member duration (Day)
 - Last visit
 
-This is my Python code to create Customer Single View
+This is my Python code to create a Customer Single View
 
 ```python
 # create single customer view
@@ -82,9 +82,15 @@ df_scv['avg_weekly_spend'] = df_scv['total_spend'] / df_scv['unique_week']
 
 df_scv.drop(columns=['unique_week', 'first_visit'], inplace=True)
 
-df_scv.tail(3)
+df_scv = df_scv.fillna(0)
+
+display(df_scv)
 ```
 
 Customer Single View example
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/3499bebe-a934-42d8-a792-66c7d346c2e2)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/840d82c5-8bd1-4b4f-ab2a-068d933353f8)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/2ed517d9-18f8-46b4-88fe-b86ce2484c6f)
+
+
+
