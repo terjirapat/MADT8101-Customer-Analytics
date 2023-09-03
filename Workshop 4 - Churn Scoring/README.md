@@ -37,7 +37,9 @@ For each reporting month, customers are grouped into 4 categories defined by the
 | Churn | ❌ | ✅ | |
 
 Current: made purchases this month (M)
+
 Previous: made purchases last month (M-1)
+
 Before: made purchase before last month (< M-1)
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/bcad3657-eb0a-4caa-b789-d080c63bfd1c)
