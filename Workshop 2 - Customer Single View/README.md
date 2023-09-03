@@ -13,10 +13,17 @@ Table Structure
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/5841a9f2-0c28-420d-884d-562795e2bdc8)
 
 #
+### **What is a single customer view?**
 
-Customer Single View is a summary of everything from one customer down to just one record.
+Customer Single View consolidates customer data from various sources for a comprehensive understanding of customer interactions.
 
-I design this based on RFM Framework. That will help to understand customers about Recency, Frequency, and Monetary
+### **The benefits of a single customer view**
+
+A single customer view is crucial for businesses, providing valuable information for all departments to improve performance. This data enables executives to make informed decisions, marketers to deliver profitable campaigns, and customer support agents to solve issues faster.
+
+#
+
+I designed this based on the RFM Framework. That will help to understand customers about Recency, Frequency, and Monetary
 
 **Columns of my Customer Single View**
 
