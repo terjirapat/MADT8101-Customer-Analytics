@@ -4,6 +4,12 @@
 
 #
 
+### What is a Customer Data Platform
+
+A Customer Data Platform (CDP) is a piece of software that combines data from multiple tools to create a single centralized customer database containing data on all touch points and interactions with your product or service. That database can then be segmented in a nearly endless number of ways to create more personalized marketing campaigns.
+
+#
+
 We design a customer data platform for a cinema business that consists of a single customer view and use case example.
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/fdda6247-d496-4c03-9535-4333b07c3ca2)
