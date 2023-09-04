@@ -15,7 +15,7 @@
   - [transaction 2022](./transaction%202022.csv)
   - [transaction 2023](./transaction%202023.csv)
 
-For analytic presentation [Click Here](./HDI%20Data%20Analytics%20Use%20Case.pdf)
+For presentation slide [Click Here](./HDI%20Data%20Analytics%20Use%20Case.pdf)
 
 ### What is HDI?
 
