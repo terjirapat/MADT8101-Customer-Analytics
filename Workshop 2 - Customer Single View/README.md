@@ -8,9 +8,11 @@
 **DATA:**  
 - Supermarket Sales Data
 
-Table Structure
+Table structure of supermarket sales data 
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/5841a9f2-0c28-420d-884d-562795e2bdc8)
+
+This dataset contains a row of sales transaction data at the product level
 
 #
 ### **What is a single customer view?**
@@ -37,16 +39,17 @@ I designed this based on the RFM Framework. That will help to understand custome
 - Total spending in 3 month
 - Total spending in 6 month
 - Time between purchase
-- Average weekly transaction
-- Average weekly spending
+- Spending per day
+- Transaction per day
 - Member duration (Day)
 - Last visit
+- Most buying product
 
 This is my Python code to create a Customer Single View
 
-Find most buying product for each customers
+Find the most bought product for each customer
 ```python
-# Find most buying product for each customers
+# Find the most bought product for each customer
 cust_dict = {'CUST_CODE':[],
             'most_buying_pdt':[]}
 
@@ -66,10 +69,10 @@ for i in cust_pdt['CUST_CODE'].unique():
 Aggregate others features
 
 ```python
-# create single customer view
+# Create a single customer view
 df_scv = df[['CUST_CODE']].drop_duplicates().reset_index(drop=True)
 
-# aggregate for total period
+# aggregate for the total period
 df_scv = df_scv.merge(
     df.groupby(['CUST_CODE', 'BASKET_ID']).agg(
     spend = ('SPEND', 'sum'),
@@ -123,4 +126,44 @@ Table of Customer Single View
 
 # Customer Segmentation and Product Recommendation
 :pushpin: **GOAL** : 
-> Clustering customer segmentation using features from customer single view and product recommend by cluster
+> Applying customer segmentation using features from customer single view and product recommendations by segment
+
+## EDA
+
+It was discovered that 27% of a total of 3,439 customers purchased only once and never returned.
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/0a3856ca-ffdd-4482-92ae-3ebba81126d6)
+
+So I decided to cluster two times 
+- First one basket customer
+- Second more than one basket customer
+
+## Customer Segmentation
+
+**Method: K-mean clustering**
+
+### One basket customer
+
+**Feature**
+
+- Average basket size
+- Average basket size in 3 month
+- Average basket size in 6 month
+- Total number of transactions
+- Number of transactions in 3 month
+- Number of transactions in 6 month
+- Total spending
+- Total spending in 3 month
+- Total spending in 6 month
+- Time between purchase
+- Spending per day
+- Transaction per day
+
+
+
+
+
+
+
+
+
