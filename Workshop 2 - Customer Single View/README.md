@@ -124,9 +124,7 @@ Table of Customer Single View
 
 #
 
-# Customer Segmentation and Product Recommendation
-:pushpin: **GOAL** : 
-> Applying customer segmentation using features from customer single view and product recommendations by segment
+# Customer Segmentation and 
 
 ## EDA
 
@@ -170,7 +168,7 @@ So I decided to cluster two times
 - Spending per day
 - Transaction per day
 
-## Product Recommendation
+# Product Recommendation
 
 **Method: Association rule**
 
