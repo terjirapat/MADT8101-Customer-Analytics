@@ -12,6 +12,7 @@
 
 **DATA:**  
 - [ครกไม้ไทยลาว (Krok Mai Thai Lao)](https://www.wongnai.com/r/12231Lf) restaurant customers review from Wongnai
+  - [wongnai_review_KrokMaiThaiLao](./wongnai_review_KrokMaiThaiLao.csv)
 
 **METHOD:**  
 - Topic Modeling with LDA
