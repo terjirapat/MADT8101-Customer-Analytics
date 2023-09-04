@@ -149,11 +149,11 @@ So I decided to cluster two times
 - Average basket size
 - Total spending
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/80c31726-e10f-4bcc-b28d-409dba2bfe71)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/0c959526-f135-4335-ae41-8da9beb12311)
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/73c7a0e4-a7f8-4666-a381-785dfe704e84)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/603bd60f-591f-4e6e-a2c7-f4f9e3d6f4c2)
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/897ab101-a4d2-453c-a899-87573bdfc4c3)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/29a1a099-9ef0-4e56-b260-ff3f9f26be32)
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/9ef0398a-9811-4a88-9605-954c6fe8a0b0)
 
@@ -176,13 +176,13 @@ So I decided to cluster two times
 - Spending per day
 - Transaction per day
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/a8443d48-7d64-4a16-acf1-8208d745d236)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/c808fd75-b767-4c25-99f6-836220f3c508)
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/49f30d63-e7b7-4b1f-983b-4b6d103db2b2)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/d3554544-bea9-49d1-9fbe-cb4ce109001b)
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/1506f782-3a49-4204-a0dd-53f14e2925be)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/c394f8af-7103-405e-b9ed-cef3505ef4ae)
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/6172b7df-e122-41bc-8983-cc7ca6e23071)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/e95e90b8-98ea-43e8-85a6-5a69edef2893)
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/976da07f-99b8-42a8-8d3c-0b5546d66d96)
 
