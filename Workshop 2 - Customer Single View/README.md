@@ -118,3 +118,9 @@ Table of Customer Single View
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/56612df4-a888-45ce-adc7-a5439590b12e)
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/a1c60d20-3b31-4aa3-bd3b-ca11dd91c147)
+
+#
+
+# Customer Segmentation and Product Recommendation
+:pushpin: **GOAL** : 
+> Clustering customer segmentation using features from customer single view and product recommend by cluster
