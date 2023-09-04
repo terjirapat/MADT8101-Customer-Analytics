@@ -142,7 +142,18 @@ So I decided to cluster two times
 
 **Method: K-mean clustering**
 
+#
+
 ### One basket customer
+
+**Feature**
+
+- Average basket size
+- Total spending
+
+#
+
+### More than one basket customer
 
 **Feature**
 
@@ -159,6 +170,9 @@ So I decided to cluster two times
 - Spending per day
 - Transaction per day
 
+## Product Recommendation
+
+**Method: Association rule**
 
 
 
