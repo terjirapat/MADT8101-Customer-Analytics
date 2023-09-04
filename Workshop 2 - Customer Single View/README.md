@@ -149,6 +149,14 @@ So I decided to cluster two times
 - Average basket size
 - Total spending
 
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/80c31726-e10f-4bcc-b28d-409dba2bfe71)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/73c7a0e4-a7f8-4666-a381-785dfe704e84)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/897ab101-a4d2-453c-a899-87573bdfc4c3)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/9ef0398a-9811-4a88-9605-954c6fe8a0b0)
+
 #
 
 ### More than one basket customer
@@ -168,9 +176,29 @@ So I decided to cluster two times
 - Spending per day
 - Transaction per day
 
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/a8443d48-7d64-4a16-acf1-8208d745d236)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/49f30d63-e7b7-4b1f-983b-4b6d103db2b2)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/1506f782-3a49-4204-a0dd-53f14e2925be)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/6172b7df-e122-41bc-8983-cc7ca6e23071)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/976da07f-99b8-42a8-8d3c-0b5546d66d96)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/a8d98144-a1de-4429-9f90-065126c6ce3c)
+
+
 # Product Recommendation
 
 **Method: Association rule**
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/677969df-e130-486f-a7e3-aefa2ed824fe)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/0ec4c32e-c568-460c-b07e-17ecffb3400a)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/815eec60-767a-480f-86b0-069b135578c5)
+
 
 
 
