@@ -124,42 +124,29 @@ Table of Customer Single View
 
 #
 
-# Customer Segmentation and 
-
 ## EDA
 
 It was discovered that 27% of a total of 3,439 customers purchased only once and never returned.
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/0a3856ca-ffdd-4482-92ae-3ebba81126d6)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/48a8adfb-90dd-4099-be5b-254ce7df232a)
 
-So I decided to cluster two times 
-- First one basket customer
-- Second more than one basket customer
+## One basket customer
 
-## Customer Segmentation
+From the 80/20 rule, 20% of the customers represent 80% of total sales.
+
+<img src="https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/cb9e233a-1a80-4d31-bac3-db701e3d1e3c" height="300" width="400">
+
+Finding 20% of the customers and making them purchase again.
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/edc1e9cc-24a6-4e8f-babd-d4c902455e86)
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/9c1646b2-8e3e-4066-9a47-4fd31e452c3c)
+
+# Customer Segmentation
 
 **Method: K-mean clustering**
 
-#
-
-### One basket customer
-
-**Feature**
-
-- Average basket size
-- Total spending
-
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/0c959526-f135-4335-ae41-8da9beb12311)
-
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/603bd60f-591f-4e6e-a2c7-f4f9e3d6f4c2)
-
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/29a1a099-9ef0-4e56-b260-ff3f9f26be32)
-
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/9ef0398a-9811-4a88-9605-954c6fe8a0b0)
-
-#
-
-### More than one basket customer
+## More than one basket customer
 
 **Feature**
 
