@@ -152,9 +152,9 @@ The table of the customers who represent 80% of total sales.
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/9c1646b2-8e3e-4066-9a47-4fd31e452c3c)
 
-***Recommended Action***: Push them to make further purchases.
+***Action Suggestions***: Push them to make further purchases.
 
-***Recommended Next steps***: Move them to 'more than one basket customer' and make recommendations based on their cluster
+***Next steps suggested***: Move them to 'more than one basket customer' and make recommendations based on their cluster
 
 #
 
