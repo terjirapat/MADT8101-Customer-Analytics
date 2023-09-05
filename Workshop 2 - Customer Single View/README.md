@@ -140,7 +140,7 @@ I divided the customers into two groups in order to analyze them separately.
 
 From the 80/20 rule, 20% of the customers represent 80% of total sales.
 
-Finding 20% of the customers and making them purchase again.
+Finding 20% of the customers
 
 <img src="https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/cb9e233a-1a80-4d31-bac3-db701e3d1e3c" height="300" width="400"><br /><br />
 
@@ -151,6 +151,9 @@ Finding 20% of the customers and making them purchase again.
 The table of the customers who represent 80% of total sales.
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/9c1646b2-8e3e-4066-9a47-4fd31e452c3c)
+
+Recommended Action: Push them to make further purchases.
+Recommended Next steps: Move them to 'more than one basket customer' and make recommendations based on their cluster
 
 #
 
