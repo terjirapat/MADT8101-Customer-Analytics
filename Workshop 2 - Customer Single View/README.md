@@ -134,9 +134,9 @@ I divided the customers into two groups in order to analyze them separately.
 
 # Customer Segmentation
 
-**Method: The 80/20 rule**
-
 ## One basket customer
+
+### **Method: The 80/20 rule**
 
 From the 80/20 rule, 20% of the customers represent 80% of total sales.
 
@@ -144,7 +144,7 @@ Finding 20% of the customers and making them purchase again.
 
 <img src="https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/cb9e233a-1a80-4d31-bac3-db701e3d1e3c" height="300" width="400"><br /><br />
 
-**Result**
+### Result
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/edc1e9cc-24a6-4e8f-babd-d4c902455e86)
 
@@ -154,9 +154,9 @@ The table of the customers who represent 80% of total sales.
 
 #
 
-**Method: K-mean clustering**
-
 ## More than one basket customer
+
+### **Method: K-mean clustering**
 
 **Feature**
 
@@ -173,22 +173,46 @@ The table of the customers who represent 80% of total sales.
 - Spending per day
 - Transaction per day
 
+### Determining the optimal number of clusters
+
+I choose k=3
+
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/c808fd75-b767-4c25-99f6-836220f3c508)
 
-![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/d3554544-bea9-49d1-9fbe-cb4ce109001b)
+### Clustering result
+
+***PCA Scatter plot***
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/c394f8af-7103-405e-b9ed-cef3505ef4ae)
 
+### EDA
+
+***Number of Customers in each Cluster***
+
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/e95e90b8-98ea-43e8-85a6-5a69edef2893)
+
+***Box plot***
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/976da07f-99b8-42a8-8d3c-0b5546d66d96)
 
+***Histogram***
+
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/a8d98144-a1de-4429-9f90-065126c6ce3c)
 
+### Interpretation
+
+***Feature Important***
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/d3554544-bea9-49d1-9fbe-cb4ce109001b)
+
+***Median value of each feature by cluster***
+
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/67936934-c4fa-4753-92ee-8918fd448231)
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/2a6c79dc-e9cb-412e-b56b-3bf0a38575e8)
 
 # Product Recommendation
 
-**Method: Association rule**
+### **Method: Association rule**
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/677969df-e130-486f-a7e3-aefa2ed824fe)
 
