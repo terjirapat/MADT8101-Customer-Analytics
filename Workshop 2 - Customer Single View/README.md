@@ -180,7 +180,7 @@ The table of the customers who represent 80% of total sales.
 
 ### Determining the optimal number of clusters
 
-I choose k=3
+Choose k=3
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/c808fd75-b767-4c25-99f6-836220f3c508)
 
@@ -215,7 +215,7 @@ I choose k=3
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/67936934-c4fa-4753-92ee-8918fd448231)
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/2a6c79dc-e9cb-412e-b56b-3bf0a38575e8)
 
-### **Cluster 0 Inactive Minimal Spenders**
+### **Cluster 0: Inactive Minimal Spenders**
 
 **Description**: This cluster consists of customers who have made very few or no purchases in the past 6 months and have a low average basket size.
 
@@ -227,7 +227,7 @@ I choose k=3
 
 - Continuously monitor and analyze their behavior to adjust your re-engagement efforts.
 
-### **Cluster 1 High-Value Occasional Shoppers**
+### **Cluster 1: High-Value Occasional Shoppers**
 
 **Description**: This cluster represents customers who make occasional but high-value purchases.
 
@@ -239,7 +239,7 @@ I choose k=3
 
 - Encourage them to become more frequent shoppers by offering incentives for repeat purchases.
 
-### **Cluster 2 Frequent Moderate Spenders**
+### **Cluster 2: Frequent Moderate Spenders**
 
 **Description**: This cluster comprises customers who make frequent purchases with moderate spending.
 
