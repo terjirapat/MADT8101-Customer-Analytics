@@ -136,7 +136,7 @@ I divided the customers into two groups in order to analyze them separately.
 
 ## One basket customer
 
-### **Method: The 80/20 rule**
+### **Framework: The 80/20 rule**
 
 From the 80/20 rule, 20% of the customers represent 80% of total sales.
 
@@ -152,15 +152,16 @@ The table of the customers who represent 80% of total sales.
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/9c1646b2-8e3e-4066-9a47-4fd31e452c3c)
 
-***Action Suggestions***: Push them to make further purchases.
+**Action Suggestions**: Push them to make further purchases.
 
-***Next steps suggested***: Move them to 'more than one basket customer' and make recommendations based on their cluster
+**Next steps suggested**: Move them to the 'more than one basket customer' group and make recommendations based on their cluster
 
 #
 
 ## More than one basket customer
 
-### **Method: K-mean clustering**
+### **Clustering Method: K-mean clustering**
+### **Normalization Method: Z-score normalization**
 
 **Feature**
 
@@ -185,42 +186,86 @@ I choose k=3
 
 ### Clustering result
 
-***PCA Scatter plot***
+**PCA Scatter plot**
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/c394f8af-7103-405e-b9ed-cef3505ef4ae)
 
 ### EDA
 
-***Number of Customers in each Cluster***
+**Number of Customers in each Cluster**
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/e95e90b8-98ea-43e8-85a6-5a69edef2893)
 
-***Box plot***
+**Box plot**
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/976da07f-99b8-42a8-8d3c-0b5546d66d96)
 
-***Histogram***
+**Histogram**
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/a8d98144-a1de-4429-9f90-065126c6ce3c)
 
 ### Interpretation
 
-***Feature Important***
+**Feature Important**
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/d3554544-bea9-49d1-9fbe-cb4ce109001b)
 
-***Median value of each feature by cluster***
+**Median value of each feature by cluster**
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/67936934-c4fa-4753-92ee-8918fd448231)
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/2a6c79dc-e9cb-412e-b56b-3bf0a38575e8)
 
+### **Cluster 0 Inactive Minimal Spenders**
+
+**Description**: This cluster consists of customers who have made very few or no purchases in the past 6 months and have a low average basket size.
+
+**Suggestions**: Consider re-engagement strategies, such as personalized email offers, reminders, or incentives to encourage them to make a purchase.
+
+**Next Steps**: 
+
+- Segment this cluster further to understand if there are specific reasons for inactivity and address those issues.
+
+- Continuously monitor and analyze their behavior to adjust your re-engagement efforts.
+
+### **Cluster 1 High-Value Occasional Shoppers**
+
+**Description**: This cluster represents customers who make occasional but high-value purchases.
+
+**Action Suggestions**: Recognize and reward their loyalty with exclusive offers or loyalty programs.
+
+**Next steps suggested**: 
+
+- Collect more data to understand the factors that trigger their purchases and tailor marketing efforts accordingly.
+
+- Encourage them to become more frequent shoppers by offering incentives for repeat purchases.
+
+### **Cluster 2 Frequent Moderate Spenders**
+
+**Description**: This cluster comprises customers who make frequent purchases with moderate spending.
+
+**Action Suggestions**: Focus on upselling and cross-selling related products to increase their average basket size.
+
+**Next steps suggested**:
+
+- Implement targeted marketing campaigns based on their purchase history to encourage them to buy complementary products.
+
+- Monitor their behavior to ensure they remain engaged and continue to make purchases.
+
 # Product Recommendation
 
-### **Method: Association rule**
+### **Recommendation Method: Association rule**
+
+Product recommendation from association rule on column 'PROD_CODE_10' by cluster
+
+### Cluster 0
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/677969df-e130-486f-a7e3-aefa2ed824fe)
 
+### Cluster 1
+
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/0ec4c32e-c568-460c-b07e-17ecffb3400a)
+
+### Cluster 2
 
 ![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/815eec60-767a-480f-86b0-069b135578c5)
 
