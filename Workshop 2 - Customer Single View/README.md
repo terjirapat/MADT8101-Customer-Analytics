@@ -126,6 +126,8 @@ Table of Customer Single View
 
 ## EDA
 
+![image](https://github.com/terjirapat/MADT8101-Customer-Analytics/assets/77285026/660870ce-25b8-45a4-a360-4c2137634a41)
+
 It was discovered that 27% of a total of 3,439 customers purchased only once and never returned.
 
 I divided the customers into two groups in order to analyze them separately.
